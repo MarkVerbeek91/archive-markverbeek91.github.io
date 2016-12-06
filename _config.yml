@@ -16,9 +16,13 @@
 title: Projects of Mark Verbeek
 email: mark(dote)verbeek91 (at) gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ To give an impression of what kind of projects I'm working on and what 
+ my cabalities are is here a site that gives a short overview. These project
+ will include programming projects, education projects, LEGO technic projects
+ and some small miscellaneous projects.
+ #Write an awesome description for your new site here. You can edit this
+ # line in _config.yml. It will appear in your document head meta (for
+ # Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
