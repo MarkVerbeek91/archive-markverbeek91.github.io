@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "First Post"
+date:   2016-12-07 08:30:15 +0100
+categories: general update
+---
+Muhaha, finally I got place on the internet to spam my spam and showcase what I'm up to. 
+
+A short overview of my plans of this site, I want to show the projects that I work(ed) on. 
+These include a code that can calculate the neutron production rate of electrostatic confinement device. 
+
+
+{% highlight c %}
+int main(void)
+{
+    printf("hello worlds!\n");
+
+    return 0;
+}
+{% endhighlight %}
+
+
