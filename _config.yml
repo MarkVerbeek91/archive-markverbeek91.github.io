@@ -14,16 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Projects of Mark Verbeek
-email: mark(dote)verbeek91 (at) gmail.com
+email: mark(dote)verbeek91(at)gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- To give an impression of what kind of projects I'm working on and what 
- my cabalities are is here a site that gives a short overview. These project
- will include programming projects, education projects, LEGO technic projects
- and some small miscellaneous projects.
+ Overview of my projects which include but not limited to: LEGO CableTrack, FUSOR GUI and NeutronCode.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  markverbeek91
+linkedin_sername: mark-verbeek-67580085
+
 
 # Build settings
 markdown: kramdown
