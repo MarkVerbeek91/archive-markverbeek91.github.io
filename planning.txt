@@ -1,0 +1,13 @@
+planning Blog;
+
+2017-01-01 - introduction to site
+2017-01-07 - WIP: LEGO CableTrack - update 1
+2017-01-14 - WIP: FUSOR Software - update 1
+2017-01-21 - WIP: NeutronCode - update 1
+2017-01-28 - 
+
+elke eerste zondag van de maand stuk over LEGO
+elke tweede zondag over Fusor Software
+elke derde zondag over NeutronCode
+elke vierde als die er is over een los projectje. 
+
