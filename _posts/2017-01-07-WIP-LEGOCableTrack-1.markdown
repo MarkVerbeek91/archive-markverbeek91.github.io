@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "WIP: LEGO Cable Track - update 1"
+title:  "WIP: LEGO Cable Track - Update 1"
 date:   2017-01-07 00:00:00 +0100
 categories: jekyll update
 ---
 
-Project Doel: Het maken van een kabelbaan type Funitel-24 van Dobblemeyer zoals de silverattebahn in Ischgl met LEGO (op LEGO schaal natuurlijk). 
+Project Doel: Het maken van een kabelbaan type Funitel-24 van Dobblemeyer zoals de silverattebahn in Ischgl met LEGO (op LEGO schaal natuurlijk (ongeveer 1:20)). 
 
 Korte uitleg: Een funitel-24 is een gondel systeem dat bestaat uit één kabel die in twee lussen is gewonden zodat er feitelijk 4 kabels tussen de berg en dal station gespannen zijn. Tussen deze kabels zijn gondels gehangen die in het station los komen van de kabel om zo met een rustig tempo te laden en ontladen zijn. De 24 in de naam staat voor 24 personen die met dit type meekunnen.
 
