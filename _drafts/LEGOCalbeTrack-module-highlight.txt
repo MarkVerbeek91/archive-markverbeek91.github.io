@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "LEGOCableTrack - highlight - Gondel bocht"
+date:   2017-03-07 00:00:00 +0100
+categories: jekyll update
+---
+
+Een van de moeilijkste onderdelen van deze kabelbaan was het ontwerpen van de bocht dit de gondels 180 graden van richting moet laten veranderen. 
+
+In saaie uurtjes van het vak Quantummechanica 2 waren ideale omstadigheden om tot een goed ontwerp te komen. 
+De moeilijkheid zit namelijk in 'beperkte' onderdelen lijst van LEGO, en de ruimte waarin alle overbrengingen moet plaats vinden. 
+
+De afstand tussen de wieltjes is 3 lego units, (4 units hart of hart). Lego heeft nu een cardan-as die 3 units lang is. dit betekent dat er 1 unit ruimte is om de draaiing van de as over te brengen naar ergens anders EN om de as vast te houden. 
+
+Verder zit de as veel te hoog en heeft de verkeerde snelheid te opzichten van de as met wiel die de gondel aandrijft. 
+
+De verhouding tussen de snelheiden is 1:8, de overbrenging van een wormwiel naar een 8 tandwiel. 
+
+Een tweede uitdaging was het laten aansluiten van de bocht op de bedachte afstand tussen de twee spoorbanen. De radius van bocht word bepaalde door de 5 unite lengthe aan de buiten kant en de 5 om 3 lengthe van de binnen bocht. De radius werd hierdoor iets kleiner dan de halve afstand tussen de twee spoorbanen. Dit moet dus op een mooie manier worden opgevangen. 
+De methode ik heb gekozen heb was inplaats dus de spoor breedte te veranderen twee kopelstukken te maken. Deze stukken zijn aangepast bocht elementen die zo zijn gemaakt dat ze zonder hoek aan elkaar vast zitten. 
+
+
+
